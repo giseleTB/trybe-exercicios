@@ -1,0 +1,31 @@
+body{
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.cor-favorita {
+    background-color: bisque;
+    
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+    font-style: italic;
+    
+}
+
+ul {
+    line-height: 30px;
+    text-decoration:underline;
+}
+
+.cor {
+    color:bisque;
+}
